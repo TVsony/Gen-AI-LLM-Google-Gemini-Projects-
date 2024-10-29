@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+python-dotenv
+ipython==8.10.0
