@@ -22,3 +22,5 @@ ATS Resume Expert is a Streamlit web application designed to help job seekers an
 
 ## Potential Applications
 - Human Resources: Automated resume screening, candidate evaluation, and job matching.
+- We can use this app to check resume score w.r.t job description
+- We can use this app to apply for job with higher probability to select resume 
